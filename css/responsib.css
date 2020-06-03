@@ -1,0 +1,173 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (min-width: 320px) and (max-width: 575px) 
+{
+	.navbar{
+		padding: 20px !important;
+	}
+	.navbar-light .navbar-toggler{
+		border: 2px solid #fff !important;
+	}
+	header .banner {
+		padding: 50px 0 !important;
+	}
+	header .banner h2 {
+		font-size: 28px !important;
+	}
+	.com-btn {
+		padding: 20px 52px 15px !important;
+		font-size: 10px !important;
+	}
+	.service {
+		padding: 60px 0 !important;
+	}
+	.com-hadding h2 {
+		font-size: 14px !important;
+	}
+	.service .single-service h3 {
+		font-size: 14px !important;
+		margin: 40px 0px 25px !important;
+	}
+	.service .single-service {
+		margin-bottom: 70px !important;
+	}
+	.com-hadding p {
+		font-size: 14px !important;
+	}
+	.service .single-service p{
+		font-size: 12px !important;
+	}
+	.team {
+		padding: 60px 0 !important;
+	}
+	.team .single-team h3 {
+		font-size: 18px !important;
+	}
+	.single-team {
+		margin-bottom: 80px !important;
+	}
+	.skill {
+		padding: 60px 0 !important;
+	}
+	.single-progress {
+		margin-bottom: 60px !important;
+	}
+	.isotop {
+		padding: 60px 0 !important;
+	}
+	.about {
+		padding: 60px 0 !important;
+	}
+	.about .single-about .single-about-text{
+		padding-left: 100px !important;
+	}
+	.about .single-about{
+		margin-bottom: 70px !important;
+	}
+	.about .col-lg-6:nth-child(4) .single-about,
+	.about .col-lg-6:nth-child(3) .single-about{
+		margin-bottom: 70 !important;
+	}
+	.get-touch{
+		padding: 60px 0 !important;
+	}
+	.isotop ul li{
+		margin: 8px !important;
+	}
+	footer a {
+		padding: 10px 8px !important;
+		font-size: 12px !important;
+	}
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 576px) and (max-width: 767px) 
+{
+	.navbar-light .navbar-toggler{
+		border: 2px solid #fff !important;
+	}
+	.com-hadding h2 {
+		font-size: 28px !important;
+	}
+	header .banner h2 {
+		font-size: 28px !important;
+	}
+	.com-hadding p {
+		font-size: 12px !important;
+	}
+	.service .single-service h3 {
+		margin: 30px 0px 20px !important;
+	}
+	.service .single-service{
+		margin-bottom: 60px !important;
+	}
+	.single-team {
+		margin-bottom: 80px !important;
+	}
+	.col-lg-3:last-child .single-team{
+		margin-bottom: 0px !important;
+	}
+	.single-progress {
+		margin-bottom: 80px !important;
+	}
+	.single-about .single-about-text i {
+		margin-bottom: 15px !important;
+	}
+	.about .single-about {
+		margin-bottom: 50px !important;
+	}
+	.about .col-lg-6:nth-child(4) .single-about,
+	.about .col-lg-6:nth-child(3) .single-about{
+		margin-bottom: 50 !important;
+	}
+	footer a {
+		padding: 12px 12px !important;
+		font-size: 12px !important;
+	}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) and (max-width: 991px) 
+{
+	.navbar-light .navbar-toggler{
+		border: 2px solid #fff !important;
+	}
+	.com-hadding p {
+		font-size: 16px !important;
+	}
+	header .banner h2 {
+		font-size: 32px !important;
+	}
+	.service .single-service{
+		margin-bottom: 60px !important;
+	}
+	.service .single-service h3 {
+		margin: 30px 0px 20px !important;
+	}
+	.single-team {
+		margin-bottom: 80px !important;
+	}
+	.single-progress {
+		margin-bottom: 80px !important;
+	}
+	.about .single-about {
+		margin-bottom: 50px !important;
+	}
+	.about .col-lg-6:nth-child(4) .single-about,
+	.about .col-lg-6:nth-child(3) .single-about{
+		margin-bottom: 50 !important;
+	}
+	footer a {
+		padding: 30px 12px !important;
+		font-size: 20px !important;
+	}
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) and (max-width: 1199px) 
+{
+	.about .single-about .single-about-text {
+		padding-left: 100px !important;
+	}
+
+}
